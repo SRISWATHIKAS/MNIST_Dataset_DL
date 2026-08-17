@@ -1,6 +1,6 @@
 # MNIST_Dataset_DL - Built-in Dataset
 # MNIST Handwritten Digit Classification using CNN
-#📌Overview
+# 📌Overview
 
 This dataset focuses on building a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. The model classifies grayscale images of handwritten digits into one of 10 classes (0–9).
 
